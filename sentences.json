@@ -1,0 +1,598 @@
+{
+  "sentences": [
+    {
+      "text": "Babička peče v kuchyni čerstvý tvarohový koláč",
+      "answer": ".",
+      "type": "věta oznamovací",
+      "rule": "Jen oznamujeme, co se děje. Stačí si v duchu říct: AHA."
+    },
+    {
+      "text": "Na obloze letí velký stříbrný dopravní letoun",
+      "answer": ".",
+      "type": "věta oznamovací",
+      "rule": "Jen oznamujeme, co se děje. Stačí si v duchu říct: AHA."
+    },
+    {
+      "text": "Včera jsme společně navštívili místní starou zoo",
+      "answer": ".",
+      "type": "věta oznamovací",
+      "rule": "Jen oznamujeme, co se stalo. Stačí si v duchu říct: AHA."
+    },
+    {
+      "text": "Na zahradě rozkvetly první jarní žluté petrklíče",
+      "answer": ".",
+      "type": "věta oznamovací",
+      "rule": "Jen oznamujeme, co se stalo. Stačí si v duchu říct: AHA."
+    },
+    {
+      "text": "Maminka schovala klíče do malé černé tašky",
+      "answer": ".",
+      "type": "věta oznamovací",
+      "rule": "Jen oznamujeme, co se stalo. Stačí si v duchu říct: AHA."
+    },
+    {
+      "text": "Táta právě opravuje naše staré červené kolo",
+      "answer": ".",
+      "type": "věta oznamovací",
+      "rule": "Jen oznamujeme, co se děje. Stačí si v duchu říct: AHA."
+    },
+    {
+      "text": "Pes hlasitě štěká na kolemjdoucího pošťáka",
+      "answer": ".",
+      "type": "věta oznamovací",
+      "rule": "Jen oznamujeme, co se děje. Stačí si v duchu říct: AHA."
+    },
+    {
+      "text": "Dědeček čte v křesle zajímavou knihu o přírodě",
+      "answer": ".",
+      "type": "věta oznamovací",
+      "rule": "Jen oznamujeme, co se děje. Stačí si v duchu říct: AHA."
+    },
+    {
+      "text": "V našem rybníku plave sedm malých kachniček",
+      "answer": ".",
+      "type": "věta oznamovací",
+      "rule": "Jen oznamujeme, co se děje. Stačí si v duchu říct: AHA."
+    },
+    {
+      "text": "Sestra si staví vysokou věž z dřevěných kostek",
+      "answer": ".",
+      "type": "věta oznamovací",
+      "rule": "Jen oznamujeme, co se děje. Stačí si v duchu říct: AHA."
+    },
+    {
+      "text": "V lese jsme našli plný koš hnědých hříbků",
+      "answer": ".",
+      "type": "věta oznamovací",
+      "rule": "Jen oznamujeme, co se stalo. Stačí si v duchu říct: AHA."
+    },
+    {
+      "text": "Malá kočka spí na měkkém vlněném koberci",
+      "answer": ".",
+      "type": "věta oznamovací",
+      "rule": "Jen oznamujeme, co se děje. Stačí si v duchu říct: AHA."
+    },
+    {
+      "text": "Do naší třídy přišel nový žák jménem Petr",
+      "answer": ".",
+      "type": "věta oznamovací",
+      "rule": "Jen oznamujeme, co se stalo. Stačí si v duchu říct: AHA."
+    },
+    {
+      "text": "V parku kvete mnoho barevných jarních květin",
+      "answer": ".",
+      "type": "věta oznamovací",
+      "rule": "Jen oznamujeme, co se děje. Stačí si v duchu říct: AHA."
+    },
+    {
+      "text": "Na stolu leží nový sešit a modré pero",
+      "answer": ".",
+      "type": "věta oznamovací",
+      "rule": "Jen oznamujeme, co se děje. Stačí si v duchu říct: AHA."
+    },
+    {
+      "text": "Děti hlasitě zpívají veselou písničku o zvířátkách",
+      "answer": ".",
+      "type": "věta oznamovací",
+      "rule": "Jen oznamujeme, co se děje. Stačí si v duchu říct: AHA."
+    },
+    {
+      "text": "V kuchyni voní čerstvě upečený babiččin chléb",
+      "answer": ".",
+      "type": "věta oznamovací",
+      "rule": "Jen oznamujeme, co se děje. Stačí si v duchu říct: AHA."
+    },
+    {
+      "text": "Na stromě zraje spousta sladkých červených jablek",
+      "answer": ".",
+      "type": "věta oznamovací",
+      "rule": "Jen oznamujeme, co se děje. Stačí si v duchu říct: AHA."
+    },
+    {
+      "text": "Zítra navštívíme babičku a dědečka na venkově",
+      "answer": ".",
+      "type": "věta oznamovací",
+      "rule": "Jen oznamujeme, co se stane. Stačí si v duchu říct: AHA."
+    },
+    {
+      "text": "Ve skříni visí moje nová zimní bunda",
+      "answer": ".",
+      "type": "věta oznamovací",
+      "rule": "Jen oznamujeme, co se děje. Stačí si v duchu říct: AHA."
+    },
+    {
+      "text": "Na stole leží tři zralé žluté banány",
+      "answer": ".",
+      "type": "věta oznamovací",
+      "rule": "Jen oznamujeme, co se děje. Stačí si v duchu říct: AHA."
+    },
+    {
+      "text": "V potoce teče studená a čirá voda",
+      "answer": ".",
+      "type": "věta oznamovací",
+      "rule": "Jen oznamujeme, co se děje. Stačí si v duchu říct: AHA."
+    },
+    {
+      "text": "Naše třída vyhrála první místo ve fotbale",
+      "answer": ".",
+      "type": "věta oznamovací",
+      "rule": "Jen oznamujeme, co se stalo. Stačí si v duchu říct: AHA."
+    },
+    {
+      "text": "V noci svítil na nebi jasný měsíc",
+      "answer": ".",
+      "type": "věta oznamovací",
+      "rule": "Jen oznamujeme, co se stalo. Stačí si v duchu říct: AHA."
+    },
+    {
+      "text": "Bratr nakreslil krásný obrázek rybářské lodi",
+      "answer": ".",
+      "type": "věta oznamovací",
+      "rule": "Jen oznamujeme, co se stalo. Stačí si v duchu říct: AHA."
+    },
+    {
+      "text": "Najdeš v této velké mapě naše hlavní město",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se, odpovědí je ANO nebo NE."
+    },
+    {
+      "text": "Přijdeš dnes odpoledne za mnou na hřiště",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se, odpovědí je ANO nebo NE."
+    },
+    {
+      "text": "Které zvíře má na těle černé pruhy",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova KTERÉ."
+    },
+    {
+      "text": "Jak se jmenuje tvůj nejlepší kamarád ve škole",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova JAK."
+    },
+    {
+      "text": "Kolik hodin ukazují ty malé nástěnné hodiny",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova KOLIK."
+    },
+    {
+      "text": "Kdo schoval moje čisté domácí papuče",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova KDO."
+    },
+    {
+      "text": "Půjdeš zítra s námi nakoupit do obchodu",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se, odpovědí je ANO nebo NE."
+    },
+    {
+      "text": "Kam jsi schoval ty nové dřevěné pastelky",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova KAM."
+    },
+    {
+      "text": "Proč dnes venku prší a fouká vítr",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova PROČ."
+    },
+    {
+      "text": "Kdy se vrátíme z dnešního velkého výletu",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova KDY."
+    },
+    {
+      "text": "Co budeme mít dnes dobrého k obědu",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova CO."
+    },
+    {
+      "text": "Máš rád jahodovou zmrzlinu s čokoládou",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se, odpovědí je ANO nebo NE."
+    },
+    {
+      "text": "Budeš si hrát odpoledne na zahradě",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se, odpovědí je ANO nebo NE."
+    },
+    {
+      "text": "Kdo namaloval ten krásný velký obrázek",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova KDO."
+    },
+    {
+      "text": "Kde je moje nová zelená láhev na pití",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova KDE."
+    },
+    {
+      "text": "Kolik dní zbývá do začátku letních prázdnin",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova KOLIK."
+    },
+    {
+      "text": "Napíšeš dnes všechny úkoly z matematiky",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se, odpovědí je ANO nebo NE."
+    },
+    {
+      "text": "Jaká je tvoje nejoblíbenější pohádková postava",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova JAKÁ."
+    },
+    {
+      "text": "Proč jsi dnes přišel do školy tak pozdě",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova PROČ."
+    },
+    {
+      "text": "Můžu si půjčit tvou novou červenou propisku",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se, odpovědí je ANO nebo NE."
+    },
+    {
+      "text": "Viděl jsi včera v televizi ten nový film",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se, odpovědí je ANO nebo NE."
+    },
+    {
+      "text": "Kam poletí ptáci na začátku podzimu",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova KAM."
+    },
+    {
+      "text": "Kdy začíná naše oblíbená pohádka v rozhlase",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova KDY."
+    },
+    {
+      "text": "Kdo chce pomoci s úklidem naší třídy",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova KDO."
+    },
+    {
+      "text": "Co dělá ten malý ježek pod hromadou listí",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova CO."
+    },
+    {
+      "text": "Umíš už plavat bez pomoci plaveckého kruhu",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se, odpovědí je ANO nebo NE."
+    },
+    {
+      "text": "Která pastelka je nejvíce ořezaná",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova KTERÁ."
+    },
+    {
+      "text": "Kolik nohou má pavouk na stěně",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova KOLIK."
+    },
+    {
+      "text": "Kde jsi koupil ty sladké zralé jahody",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova KDE."
+    },
+    {
+      "text": "Chceš jít dnes večer do kina na pohádku",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se, odpovědí je ANO nebo NE."
+    },
+    {
+      "text": "Jak vysoký je ten starý dub u potoka",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova JAK."
+    },
+    {
+      "text": "Proč schovává veverka ořechy do země",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova PROČ."
+    },
+    {
+      "text": "Půjčíš mi na chvíli svůj barevný penál",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se, odpovědí je ANO nebo NE."
+    },
+    {
+      "text": "Kdy se naučíme číst tuto novou knihu",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova KDY."
+    },
+    {
+      "text": "Kdo pomůže mamince s nošením nákupní tašky",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova KDO."
+    },
+    {
+      "text": "Co znamená to neznámé slovo na tabuli",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova CO."
+    },
+    {
+      "text": "Kde leží tvůj ztracený zimní šál",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova KDE."
+    },
+    {
+      "text": "Kam odběhl ten malý sousedův pes",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova KAM."
+    },
+    {
+      "text": "Budeš zítra snídat teplou krupicovou kaši",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se, odpovědí je ANO nebo NE."
+    },
+    {
+      "text": "Kolik dětí dnes chybí v naší třídě",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova KOLIK."
+    },
+    {
+      "text": "Které roční období máš nejraději",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova KTERÉ."
+    },
+    {
+      "text": "Jak dlouho trvá cesta vlakem do Prahy",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova JAK."
+    },
+    {
+      "text": "Proč musíme nosit v zimě teplé rukavice",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova PROČ."
+    },
+    {
+      "text": "Znáš odpověď na tuto těžkou hádanku",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se, odpovědí je ANO nebo NE."
+    },
+    {
+      "text": "Kdy bude hotový náš nový školní projekt",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova KDY."
+    },
+    {
+      "text": "Kdo uvařil ten výborný jahodový čaj",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova KDO."
+    },
+    {
+      "text": "Co se stalo s tím starým dřevěným stolním kalendářem",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova CO."
+    },
+    {
+      "text": "Kde jsi našel ten krásný bílý kamínek",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova KDE."
+    },
+    {
+      "text": "Kam schovala kočka své malé kuličky",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se pomocí tázacího slova KAM."
+    },
+    {
+      "text": "Máš v batohu zabalenou pláštěnku do deště",
+      "answer": "?",
+      "type": "věta tázací",
+      "rule": "Ptáme se, odpovědí je ANO nebo NE."
+    },
+    {
+      "text": "Ukliď si okamžitě všechny hračky z podlahy",
+      "answer": "!",
+      "type": "věta rozkazovací",
+      "rule": "Jedná se o jasný povel nebo pokyn."
+    },
+    {
+      "text": "Nesahej prosím na ten horký plech v troubě",
+      "answer": "!",
+      "type": "věta rozkazovací",
+      "rule": "Jedná se o důrazný zákaz."
+    },
+    {
+      "text": "Polož ten ostrý nůž ihned na stůl",
+      "answer": "!",
+      "type": "věta rozkazovací",
+      "rule": "Jedná se o jasný povel nebo pokyn."
+    },
+    {
+      "text": "Zavři pořádně okno kvůli silnému větru",
+      "answer": "!",
+      "type": "věta rozkazovací",
+      "rule": "Jedná se o pokyn nebo povel."
+    },
+    {
+      "text": "Nebehej po vlhké podlaze v koupelně",
+      "answer": "!",
+      "type": "věta rozkazovací",
+      "rule": "Jedná se o důrazný zákaz."
+    },
+    {
+      "text": "Podej mi ten velký žlutý hrnek na čaj",
+      "answer": "!",
+      "type": "věta rozkazovací",
+      "rule": "Jedná se o jasný povel nebo pokyn."
+    },
+    {
+      "text": "Posaď se ticho na svou židli v lavici",
+      "answer": "!",
+      "type": "věta rozkazovací",
+      "rule": "Jedná se o jasný pokyn."
+    },
+    {
+      "text": "Nejez ten špinavý spadlý jablečný koláč",
+      "answer": "!",
+      "type": "věta rozkazovací",
+      "rule": "Jedná se o důrazný zákaz."
+    },
+    {
+      "text": "Přines mi z chodby moje černé boty",
+      "answer": "!",
+      "type": "věta rozkazovací",
+      "rule": "Jedná se o povel nebo pokyn."
+    },
+    {
+      "text": "Dávej pozor při přecházení té rušné ulice",
+      "answer": "!",
+      "type": "věta rozkazovací",
+      "rule": "Jedná se o důrazný pokyn."
+    },
+    {
+      "text": "Nekřič tak hlasitě v této malé místnosti",
+      "answer": "!",
+      "type": "věta rozkazovací",
+      "rule": "Jedná se o důrazný zákaz."
+    },
+    {
+      "text": "Napiš své jméno pečlivě na první řádek",
+      "answer": "!",
+      "type": "věta rozkazovací",
+      "rule": "Jedná se o pokyn."
+    },
+    {
+      "text": "Otevři rychle dveře pro návštěvu",
+      "answer": "!",
+      "type": "věta rozkazovací",
+      "rule": "Jedná se o povel."
+    },
+    {
+      "text": "Umyj si ruce teplou vodou a mýdlem",
+      "answer": "!",
+      "type": "věta rozkazovací",
+      "rule": "Jedná se o jasný pokyn."
+    },
+    {
+      "text": "Ať už konečně vysvitne to teplé sluníčko",
+      "answer": "!",
+      "type": "věta přací",
+      "rule": "Vyjadřujeme přání, začíná slovem AŤ."
+    },
+    {
+      "text": "Kéž by zítra napadlo hodně bílého sněhu",
+      "answer": "!",
+      "type": "věta přací",
+      "rule": "Vyjadřujeme přání, začíná slovem KÉŽ."
+    },
+    {
+      "text": "Ať se ti dnes ve škole všechno dobře podaří",
+      "answer": "!",
+      "type": "věta přací",
+      "rule": "Vyjadřujeme přání, začíná slovem AŤ."
+    },
+    {
+      "text": "Kéž by náš fotbalový tým dnes vyhrál zápas",
+      "answer": "!",
+      "type": "věta přací",
+      "rule": "Vyjadřujeme přání, začíná slovem KÉŽ."
+    },
+    {
+      "text": "Ať je bratr brzy zdráv a plný síly",
+      "answer": "!",
+      "type": "věta přací",
+      "rule": "Vyjadřujeme přání, začíná slovem AŤ."
+    },
+    {
+      "text": "Kéž by tyto prázdniny trvaly celý rok",
+      "answer": "!",
+      "type": "věta přací",
+      "rule": "Vyjadřujeme přání, začíná slovem KÉŽ."
+    },
+    {
+      "text": "Ať nám pan učitel zruší zítřejší prověrku",
+      "answer": "!",
+      "type": "věta přací",
+      "rule": "Vyjadřujeme přání, začíná slovem AŤ."
+    },
+    {
+      "text": "Kéž bych dostal k narozeninám toho malého pejska",
+      "answer": "!",
+      "type": "věta přací",
+      "rule": "Vyjadřujeme přání, začíná slovem KÉŽ."
+    },
+    {
+      "text": "Ať se na nás babička nezlobí kvůli té váze",
+      "answer": "!",
+      "type": "věta přací",
+      "rule": "Vyjadřujeme přání, začíná slovem AŤ."
+    },
+    {
+      "text": "Kéž bychom už byli v cíli našeho dlouhého výletu",
+      "answer": "!",
+      "type": "věta přací",
+      "rule": "Vyjadřujeme přání, začíná slovem KÉŽ."
+    }
+  ]
+}
