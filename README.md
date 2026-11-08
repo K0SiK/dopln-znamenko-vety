@@ -1,3 +1,8 @@
+> ⚠️ **Tento repozitář už je nahrazen.**
+> Nová aplikace **Škola na TV** používá více předmětů a obsah najdete v
+> [K0SiK/skola-tv-data](https://github.com/K0SiK/skola-tv-data).
+> Tento soubor zůstává jen pro starší verzi aplikace.
+
 # Doplň znaménko, Miky! – věty pro TV hru
 
 Veřejné úložiště vět pro aplikaci **Doplň znaménko, Miky!** na Android TV.
